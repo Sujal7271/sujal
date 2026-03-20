@@ -1,0 +1,19 @@
+.background{
+    background-color:beige;
+    text-align: center;
+}
+
+.image{
+    height:100px;
+    width:100px;
+}
+.text-end{
+    text-align:center;
+}
+.ms{
+    margin-left: 1050px;
+}
+
+.img1{
+    height: 100vh;
+}
